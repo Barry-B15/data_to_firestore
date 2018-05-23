@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataToFireStore</string>
+
+    <string name="username">name</string>
+    <string name="user_status">status</string>
+
+    <string name="register_redirect">Don\'t have an account? Register</string>
+    <string name="login_redirect">Have An Account? Log In</string>
+
+</resources>
